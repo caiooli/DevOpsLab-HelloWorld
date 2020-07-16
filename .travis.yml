@@ -21,4 +21,4 @@ deploy:
   provider: heroku
   api-key: 
     secure: $HEROKUAPI
-  app: app4linux
+  app: devopslabs-helloworld-caiohso
